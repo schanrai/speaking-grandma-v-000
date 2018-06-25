@@ -17,7 +17,7 @@ def speak_to_grandma(string)
     puts""
   elsif !string.upcase
     puts ""
-  elsif string == ""
+  elsif string == "I LOVE YOU GRANDMA!"
     puts" "
   end 
 end
